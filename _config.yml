@@ -1,0 +1,28 @@
+name: Hadi polivka
+favicon: null
+layout_spectrum: 0.8025425970554352
+typography_spectrum: 0.8970107175409794
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.18800588813610375
+  lightness: 0.9506111037917435
+  saturation: 0.5013334366958588
+  rhythmicContrast: 0.19661070848815143
+purpose: []
