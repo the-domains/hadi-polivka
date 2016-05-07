@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Hadi polivka]]></title>
         <description><![CDATA[Hadi polivka]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hadi-polivka/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 08:52:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 09:05:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hadi-polivka/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kterak jsme z Vinhu prchali]]></title>
+            <description><![CDATA[<article><h1>Kterak jsme z Vinhu prchali</h1><p>8.2.2014, rok kone</p></article>]]></description>
+            <link>http://hadipolivka.blogspot.cz/2014/08/kterak-jsme-z-vinhu-prchali.html</link>
+            <guid isPermaLink="false">4594fc9e-769f-4af7-b9fa-f3d43e347f35</guid>
+            <pubDate>Sat, 07 May 2016 09:05:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kterak jsme se do Vietnamu dostali]]></title>
             <description><![CDATA[<article><h1>Kterak jsme se do Vietnamu dostali</h1><p>Kratce po Cinskem Novem roce 7.2.2014, Rok kone</p></article>]]></description>
