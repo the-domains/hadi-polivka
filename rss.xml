@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hadi polivka]]></title>
+        <description><![CDATA[Hadi polivka]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 07 May 2016 08:52:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kterak jsme se do Vietnamu dostali]]></title>
+            <description><![CDATA[<article><h1>Kterak jsme se do Vietnamu dostali</h1><p>Kratce po Cinskem Novem roce 7.2.2014, Rok kone</p></article>]]></description>
+            <link>http://hadipolivka.blogspot.cz/2014/02/kterak-jsme-se-do-vietnamu-dostali.html</link>
+            <guid isPermaLink="false">37f2fd39-6b68-42f4-85ae-ff153f98c62a</guid>
+            <pubDate>Sat, 07 May 2016 08:52:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
